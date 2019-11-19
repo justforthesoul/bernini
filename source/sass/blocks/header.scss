@@ -30,6 +30,7 @@
   width: 100%;
   max-width: 737px;
   justify-content: space-between;
+  position: relative;
 }
 
 .header__image {
@@ -46,7 +47,7 @@
 @media (max-width: $desktop-width) {
   .header {
     padding-top: 185px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     padding-left: 182px;
     padding-right: 167px;
   }
