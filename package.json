@@ -34,7 +34,7 @@
   },
   "version": "16.0.0",
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "picturefill": "^3.0.3",
     "swiper": "^5.2.0"
   }
